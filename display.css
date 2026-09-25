@@ -1,0 +1,38 @@
+
+
+*{
+    box-sizing: border-box
+}
+.wet{
+height: 50px;
+width: 50px;
+background-color: brown; 
+border-radius: 50px;
+ position: relative;
+}
+img{
+position: absolute;
+margin: 12.5px;
+}
+a{
+text-decoration: none;
+color: brown;
+}
+h1{
+    color: indigo;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+text-shadow: 2px 2px 2px red;
+} 
+#one
+{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 15px 10px;
+justify-items: center;
+border: 3px solid;
+border-color: rgb(18, 24, 24);
+background-color: aqua;
+}
